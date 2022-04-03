@@ -10,7 +10,7 @@
 
 • 👯 I’m looking to collaborate on Python projects
 
-• ⚡ Fun fact: I am a kid
+• ⚡ I know Python, Java, C#, Html, Css.
 
 
 
