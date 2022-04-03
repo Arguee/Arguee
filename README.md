@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I am [Argue](https://github.com/Arguee) 👋
 
-<!--
-**Arguee/Arguee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Glad to see you here
 
-Here are some ideas to get you started:
+# I am a Student, Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 🎯 I'm trying to make some public projects, website templates
+• 💼 I'm currently focusing on learning web development
+• 👯 I’m looking to collaborate on Python projects
+• ⚡ Fun fact: I am a kid
+
+
+
