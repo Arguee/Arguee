@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **!Argue#6693 or arguegamer65@gmail.com**
+- 📫 How to reach me **!Argue#6693 on Discord or arguegamer65@gmail.com**
 
 - ⚡ Fun fact **I am 15**
 
