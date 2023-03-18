@@ -7,15 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Python projects**
 
-- 🤝 I’m looking for help with **Java**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Arguee](https://github.com/Arguee)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **!Argue#6693 on Discord or arguegamer65@gmail.com**
+- 📫 How to reach me **!Argue#6693 on Discord**
 
-- ⚡ Fun fact **I am 15**
+- ⚡ Fun fact **I am 16**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
