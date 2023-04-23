@@ -7,7 +7,7 @@
 <br>
   
 
-- 🔭 I’m currently working on [Youtube Bot](https://github.com/Arguee/Youtube-Upload-and-Schedule-Bot(https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Youtube Bot](https://github.com/Arguee/Youtube-Upload-and-Schedule-Bot)  
   
 
 - 🌱 I’m currently learning Backend Web Development  
