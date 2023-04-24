@@ -84,7 +84,7 @@
 <br/>  
 
 
-## Recent Spotify Activity 
+## Spotify Activity 
   
 
 <br/>  
