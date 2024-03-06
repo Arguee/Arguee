@@ -23,7 +23,7 @@
 
 
 
-<details>
+<details align="center">
 <summary>Github Stats of me:</summary>
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Arguee&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
