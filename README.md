@@ -116,8 +116,7 @@ Technologies and Languages
 <br> <br>
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arguee alt="Arguee" /></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arguee&theme=dark)](https://git.io/streak-stats)
 </div>
 
 
