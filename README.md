@@ -55,7 +55,7 @@ Let me introduce myself :boy:
 Since I have lots of spare time :watch: , I decided to take this time to focus on feeding more knowledge :books: myself. I set a couple of self-challenges to push myself more further.:running:
 
 * Learn to code:man_technologist: with no distraction ( One or two days off a week. )
-* Read:newspaper: Dev and UI articles daily
+* Read :newspaper: Dev and UI articles daily
 * Avoid spending too much time on YouTube Entertainment :skull_and_crossbones:
 * 🔜
 
