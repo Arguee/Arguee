@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Arguee/Arguee">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Hey+There!+I'm+Argue;High+School+Student+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Web+Dev+%7C+Bot+Dev+%7C+Shayar;Always+Learning+%7C+Rarely+Social" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Hey+There!+I'm+Argue;High+School+Student+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Web+Dev+%7C+Bibliophile+%7C+Writer;Always+Learning+%7C+Rarely+Social" />
   </a>
 </p>
 
