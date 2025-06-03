@@ -11,8 +11,8 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Arguee?label=Followers&style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=arguee&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/vaishnavdounde65?label=Followers&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=vaishnavdounde65&style=for-the-badge" />
 </div>
 
 ---
@@ -55,8 +55,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arguee&show_icons=true&theme=radical&count_private=true" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=Arguee&theme=dark" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavdounde65&show_icons=true&theme=radical&count_private=true" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=vaishnavdounde65&theme=dark" width="47%" />
 </p>
 
 ---
@@ -64,14 +64,14 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arguee&theme=gruvbox&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavdounde65&theme=gruvbox&margin-w=10" />
 </p>
 
 ---
 
 ## ⚡ Activity Graph
 
-[![Arguee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arguee&bg_color=1f1c2c&color=ffffff&line=00ffe1&point=00ffe1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arguee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavdounde65&bg_color=1f1c2c&color=ffffff&line=00ffe1&point=00ffe1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
