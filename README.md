@@ -28,7 +28,7 @@
 
     Quietly building cool things that speak for themselves
 
-🔗 Read my shayaris → Vaishnav Verse <br>
+🔗 Read my shayaris → [Vaishnav's Verse](https://verse.vaishnav.site) <br>
 🔧 Tech Arsenal
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,cs,firebase,nodejs" /> </p>
 
